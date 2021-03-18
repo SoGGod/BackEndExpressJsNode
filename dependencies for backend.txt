@@ -1,0 +1,38 @@
+npm init -y
+
+npm install express --save
+
+npm install dotenv --save
+
+make a file .env
+then make app.js and gitignore
+
+
+npm install nodemon --save //to remove starting the server again and again
+
+
+npm install mongoose
+
+npm install morgan //login request dekhauxa
+
+npm install router //for routing in nodejs pardina
+
+npm install body-parser //to handle form/json data
+
+npm install uuidv1  //used with salt
+
+npm i jsonwebtoken // for login authenication
+
+npm i express-jwt //authorization
+
+npm i cookie-parser //for cookies
+
+npm i multer //to upload image
+
+npm i nodemailer //to send email for verification
+
+mailtrap.io //fake smtp checker
+
+npm i cors // connect frontend and backend
+
+
